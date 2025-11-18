@@ -148,11 +148,3 @@ Edit `retrieval_phase/config.py` to adjust:
 - Large PDF files in `data/` directory are excluded from version control by default
 - Results are saved in the `results/` directory
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contributing guidelines here]
-
